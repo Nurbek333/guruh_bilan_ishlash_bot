@@ -1,4 +1,4 @@
-# Aiogram 3 New Template (sqlite db)
+# Aiogram 31 New Template (sqlite db)
 
 ### 1. Create virtual environment and install packages
 Windows
